@@ -5,3 +5,4 @@ assert 'Django' in browser.title
 
 print("test")
 print("test2")
+print("test3")
